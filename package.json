@@ -1,0 +1,16 @@
+{
+  "name": "wfm-fonts",
+  "version": "0.1.0",
+  "description": "Well file manager fonts with icons",
+  "author": {
+    "name": "Petrohelp"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvanRave/wfm-fonts.git"
+  },
+  "devDependencies": {
+    
+  }
+}
