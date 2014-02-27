@@ -1,0 +1,62 @@
+$wfm-icon-font-dir: '../fonts/';
+$wfm-icon-font-file: 'wfmicons-regular';
+$wfm-icon-font-name: 'WfmIconFont';
+$wfm-icon-font-size: 150% !default;
+
+@font-face {
+    font-family: $wfm-icon-font-name;
+    src: url($wfm-icon-font-dir + $wfm-icon-font-file + '.eot');
+    src: url($wfm-icon-font-dir + $wfm-icon-font-file + '.eot?#iefix') format('embedded-opentype'),url($wfm-icon-font-dir + $wfm-icon-font-file + '.woff') format('woff'), url($wfm-icon-font-dir + $wfm-icon-font-file + '.ttf') format('truetype'), url($wfm-icon-font-dir + $wfm-icon-font-file + '.svg#glyphicons_halflingsregular') format('svg');
+}
+
+.wfm-icon {
+  font-size: $wfm-icon-font-size;
+}
+
+.wfm-icon:before {
+    font-family: $wfm-icon-font-name;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+.well-summary-icon:before {
+    content: "\e001";
+}
+
+.well-sketch-icon:before {
+    content: "\e002";
+}
+
+.well-history-icon:before {
+    content: "\e003";
+}
+
+.well-map-icon:before {
+    content: "\e004";
+}
+
+.well-log-icon:before {
+    content: "\e005";
+}
+
+.well-perfomance-icon:before {
+    content: "\e006";
+}
+
+.well-test-icon:before {
+    content: "\e007";
+}
+
+.well-integrity-icon:before {
+    content: "\e008";
+}
+
+.well-nodalanalysis-icon:before {
+    content: "\e009";
+}
+
+.well-report-icon:before {
+    content: "\e010";
+}
