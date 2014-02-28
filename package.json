@@ -1,6 +1,6 @@
 {
   "name": "wfm-fonts",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Well file manager fonts with icons",
   "author": {
     "name": "Petrohelp"
@@ -11,6 +11,7 @@
     "url": "https://github.com/IvanRave/wfm-fonts.git"
   },
   "devDependencies": {
-    
+    "grunt": "~0.4.2",
+    "grunt-fontsmith": "~0.4.0"
   }
 }

@@ -1,6 +1,6 @@
 $wfm-icon-font-dir: '../fonts/';
-$wfm-icon-font-file: 'wfmicons-regular';
-$wfm-icon-font-name: 'WfmIconFont';
+$wfm-icon-font-file: 'wfm-icon-font';
+$wfm-icon-font-name: 'wfm-icon-font';
 $wfm-icon-font-size: 150% !default;
 
 @font-face {
@@ -8,6 +8,37 @@ $wfm-icon-font-size: 150% !default;
     src: url($wfm-icon-font-dir + $wfm-icon-font-file + '.eot');
     src: url($wfm-icon-font-dir + $wfm-icon-font-file + '.eot?#iefix') format('embedded-opentype'),url($wfm-icon-font-dir + $wfm-icon-font-file + '.woff') format('woff'), url($wfm-icon-font-dir + $wfm-icon-font-file + '.ttf') format('truetype'), url($wfm-icon-font-dir + $wfm-icon-font-file + '.svg#glyphicons_halflingsregular') format('svg');
 }
+
+// ==== Sections
+// company-report
+// company-summary
+// wegion-location
+// wegion-potential
+// wegion-summary
+// well-history
+// well-integrity
+// well-log
+// well-map
+// well-monitoring
+// well-nodalanalysis
+// well-perfomance
+// well-report
+// well-sketch
+// well-summary
+// well-test
+// well-volume
+// wield-map
+// wield-potential
+// wield-pvt
+// wield-reservoir
+// wield-spe
+// wield-summary
+// wroup-integrity
+// wroup-layout
+// wroup-monitoring
+// wroup-potential
+// wroup-summary
+// wroup-unit
 
 .wfm-icon {
   font-size: $wfm-icon-font-size;
