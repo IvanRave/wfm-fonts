@@ -53,41 +53,65 @@ $wfm-icon-font-size: 150% !default;
 }
 
 .well-summary-icon:before {
-    content: "\e001";
+    content: "\e601";
+}
+
+.wroup-summary-icon:before {
+    content: "\e601";
+}
+
+.wield-summary-icon:before {
+    content: "\e601";
+}
+
+.wegion-summary-icon:before {
+    content: "\e601";
+}
+
+.company-summary-icon:before {
+    content: "\e601";
 }
 
 .well-sketch-icon:before {
-    content: "\e002";
+    content: "\e602";
 }
 
 .well-history-icon:before {
-    content: "\e003";
+    content: "\e603";
 }
 
 .well-map-icon:before {
-    content: "\e004";
+    content: "\e604";
 }
 
 .well-log-icon:before {
-    content: "\e005";
+    content: "\e605";
 }
 
 .well-perfomance-icon:before {
-    content: "\e006";
+    content: "\e606";
 }
 
 .well-test-icon:before {
-    content: "\e007";
+    content: "\e607";
 }
 
 .well-integrity-icon:before {
-    content: "\e008";
+    content: "\e608";
 }
 
 .well-nodalanalysis-icon:before {
-    content: "\e009";
+    content: "\e609";
 }
 
 .well-report-icon:before {
-    content: "\e010";
+    content: "\e610";
+}
+
+.company-report-icon:before {
+    content: "\e610";
+}
+
+.wroup-unit-icon:before {
+    content: "\e611";
 }
