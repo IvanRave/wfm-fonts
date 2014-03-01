@@ -9,37 +9,6 @@ $wfm-icon-font-size: 150% !default;
     src: url($wfm-icon-font-dir + $wfm-icon-font-file + '.eot?#iefix') format('embedded-opentype'),url($wfm-icon-font-dir + $wfm-icon-font-file + '.woff') format('woff'), url($wfm-icon-font-dir + $wfm-icon-font-file + '.ttf') format('truetype'), url($wfm-icon-font-dir + $wfm-icon-font-file + '.svg#glyphicons_halflingsregular') format('svg');
 }
 
-// ==== Sections
-// company-report
-// company-summary
-// wegion-location
-// wegion-potential
-// wegion-summary
-// well-history
-// well-integrity
-// well-log
-// well-map
-// well-monitoring
-// well-nodalanalysis
-// well-perfomance
-// well-report
-// well-sketch
-// well-summary
-// well-test
-// well-volume
-// wield-map
-// wield-potential
-// wield-pvt
-// wield-reservoir
-// wield-spe
-// wield-summary
-// wroup-integrity
-// wroup-layout
-// wroup-monitoring
-// wroup-potential
-// wroup-summary
-// wroup-unit
-
 .wfm-icon {
   font-size: $wfm-icon-font-size;
 }
@@ -76,12 +45,20 @@ $wfm-icon-font-size: 150% !default;
     content: "\e602";
 }
 
+.well-volume-icon:before {
+    content: "\e602";
+}
+
 .well-history-icon:before {
     content: "\e603";
 }
 
 .well-map-icon:before {
     content: "\e604";
+}
+
+.wield-map-icon:before {
+   content: "\e604";
 }
 
 .well-log-icon:before {
@@ -97,6 +74,10 @@ $wfm-icon-font-size: 150% !default;
 }
 
 .well-integrity-icon:before {
+    content: "\e608";
+}
+
+.wroup-integrity-icon:before {
     content: "\e608";
 }
 
@@ -120,6 +101,14 @@ $wfm-icon-font-size: 150% !default;
     content: "\e612";
 }
 
+.wield-potential-icon:before {
+    content: "\e612";
+}
+
+.wegion-potential-icon: before {
+    content: "\e612";
+}
+
 .well-monitoring-icon:before {
     content: "\e613";
 }
@@ -130,4 +119,21 @@ $wfm-icon-font-size: 150% !default;
 
 .wegion-location-icon:before {
     content: "\e614";
+}
+
+.wield-reservoir-icon:before {
+    content: "\e615";
+}
+
+.wield-pvt-icon:before {
+    content: "\e616";
+}
+
+.wroup-layout-icon: before {
+    content: "\e617";
+}
+
+// Without icons (summary as default)
+.wield-spe-icon: before {
+    content: "\e601";
 }

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="1200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="reservoir.svg">
+  <defs
+     id="defs4">
+    <font
+       horiz-adv-x="1024"
+       id="font4101"
+       inkscape:label="font 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face4103"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="m 0.61000948,5.33259 1198.77989052,0 0,-57.08469 -1198.77989052,0 z m 3.40562182,1141.69521 44.2731287,0 0,-1141.69521 -44.2731287,0 z M 814.55442,822.35823 l 108.98,0 0,-813.45791 -108.98,0 z m -255.42187,-210.5001 115.79125,0 0,-599.39004 -115.79125,0 z m -265.6388,310.39843 91.95188,0 0,-909.78844 -91.95188,0 z M 38.071883,26.73931 C 600.00001,1482.4008 1148.3057,394.22249 1148.3057,394.22249 c 0,0 -616.4182,859.83931 -1110.233817,-367.48318 z"
+         id="missing-glyph4105" />
+    </font>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="268.57143"
+     inkscape:cy="659.32992"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect4115"
+       d="m 0.61000948,66.655517 1198.77989052,0 0,-56.5405 -1198.77989052,0 z M 4.0156313,1197.4664 l 44.2731287,0 0,-1130.810883 -44.2731287,0 z M 814.55442,875.89203 l 108.98,0 0,-805.702813 -108.98,0 z m -255.42187,-208.49329 115.79125,0 0,-593.675723 -115.79125,0 z m -265.6388,307.43924 91.95188,0 0,-901.114963 -91.95188,0 z M 38.071883,87.858117 C 600.00001,1529.6421 1148.3057,451.83793 1148.3057,451.83793 c 0,0 -616.4182,851.64197 -1110.233817,-363.979813 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
